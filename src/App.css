@@ -1,3 +1,32 @@
+
+
+.Logo{
+  text-align: center;
+  font-size: 40px;
+  color: burlywood;
+}
+
+.contenedor{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#menu ul li {
+  display: inline-block;
+}
+#menu ul li a{
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: antiquewhite;
+}
+#menu  ul li a:hover{
+  background-color: #282c34;
+}
 .App {
   text-align: center;
 }
